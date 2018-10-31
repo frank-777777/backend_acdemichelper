@@ -1,5 +1,6 @@
 #!/usr/bin/python3.5
 # -*- coding: UTF-8 -*-
+import os
 #导入数据库模块
 import pymysql
 #导入Flask框架，这个框架可以快捷地实现了一个WSGI应用 
